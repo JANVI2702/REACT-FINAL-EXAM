@@ -33,7 +33,7 @@
 - Modify the API URL if using a different backend.
 
 
-##ScreenShot
+## ScreenShot
 
 - Searching
 <img width="1674" alt="Image" src="https://github.com/user-attachments/assets/f1a192b4-d2bf-4776-a6ee-03a2be373254" />

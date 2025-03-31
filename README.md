@@ -36,7 +36,7 @@
 ##ScreenShot
 
 - Searching
-<img width="1680" alt="Image" src="https://github.com/user-attachments/assets/28e96ce7-af9a-46b6-a02b-77d65c34ac76" />
+<img width="1674" alt="Image" src="https://github.com/user-attachments/assets/f1a192b4-d2bf-4776-a6ee-03a2be373254" />
 
 
 

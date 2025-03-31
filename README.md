@@ -4,7 +4,38 @@
 
 ## 📌 Features
 
--- Search: Type in the input field to filter the table.
+- Fetches data from a local JSON server (http://localhost:3000/posts).
+- Displays data in a Bootstrap-styled table.
+- Search functionality to filter by Name, Email, or Phone.
+- Sorting feature (ascending & descending) on Name and Image columns.
+- Pagination (5 records per page).
+- Delete functionality with confirmation.
+- Notifications using react-toastify.
+  
+## 🛠 How to Use
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search: Type in the input field to filter the table.
+- Sorting: Click on the Name or Image column to toggle sorting.
+- Delete: Click on the 🗑️ (trash) icon to delete an entry.
+- Pagination: Use Previous and Next buttons to navigate.
+
+## 📌 Dependencies
+
+- React (UI Framework)
+- React Bootstrap (Table Styling)
+- React Icons (Icons for Sorting & Delete)
+- React Toastify (Notifications)
+- JSON Server (Mock API for Data)
+
+## 📝 Notes
+
+- Ensure database.json exists before running the JSON server.
+- Modify the API URL if using a different backend.
+
+
+
+  
+
+
+
+

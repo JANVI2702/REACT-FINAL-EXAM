@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "name": "Smith",
+      "image": "https://images.mykhel.com//webp/images/cricket/players/2/4552.jpg?v=5",
+      "email": "smith@example.com",
+      "phone": "8278786432"
+    },
+    {
+      "id": "3",
+      "name": "Johnson",
+      "image": "https://cdn.britannica.com/36/147936-050-8E84B614/Dwayne-Johnson.jpg",
+      "email": "johnson@example.com",
+      "phone": "45678945678"
+    },
+    {
+      "id": "4",
+      "name": "Brown",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_kKvtD54lMJvLlG8DWWeqym5F-d0IFDApg&s",
+      "email": "brown@example.com",
+      "phone": "876543219"
+    },
+    {
+      "id": "6",
+      "name": "milly",
+      "image": "https://assets.capitalfm.com/2024/04/milly-alcock-will-play-supergirl-in-superman-legacy-1706609792-view-1.jpg",
+      "email": "milly@example.com",
+      "phone": "123456789"
+    },
+    {
+      "id": "7",
+      "name": "jackobb",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfTett22NiqVyf4s0KdArD-dimPwPrEJUni1c2NJ039RZNH1t0EnhBqb51nsj9us9_Rw&usqp=CAU",
+      "email": "jackobb@example.com",
+      "phone": "123456789"
+    },
+    {
+      "id": "8",
+      "name": "misty",
+      "image": "https://static01.nyt.com/images/2024/08/12/multimedia/12xp-lillis-wcqj/12xp-lillis-wcqj-articleLarge-v3.jpg?quality=75&auto=webp&disable=upscale",
+      "email": "misty@example.com",
+      "phone": "123456789"
+    },
+    {
+      "id": "9",
+      "name": "luke",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMp_IhjxFdqiQDgPlIyYKFiPdKIKwkeQLEPw&s",
+      "email": "luke@example.com",
+      "phone": "123456789"
+    },
+    {
+      "id": "10",
+      "name": "jenny",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/elm040124ppwomenofimpact-001-jenny-han-65ea2c6a4174f.jpg",
+      "email": "jenny@example.com",
+      "phone": "123456789"
+    }
+  ]
+}
